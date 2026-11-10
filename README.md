@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Java-8-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8"/>
   <img src="https://img.shields.io/badge/platforms-Android%20%C2%B7%20iOS%20%C2%B7%20Desktop-6a5cff?style=flat-square" alt="Platforms"/>
   <img src="https://img.shields.io/badge/commits-595-39e6c8?style=flat-square" alt="Commits"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT"/>
 </p>
 
 Buran-19 is an indie 2D space arcade. You fly the Buran shuttle through open space, rescue stranded astronauts
@@ -65,6 +66,11 @@ cd buran-19
 
 ## Authors
 
-Made by [Vitaly Solovev](https://github.com/soloyes), with contributions from FlameXander, Pavel Guryanov and htfdream.
+Made by [Vitalii Solovev](https://github.com/soloyes), with contributions from FlameXander, Pavel Guryanov and htfdream.
 
 History moved from [Bitbucket](https://bitbucket.org/soloyes/buran-19) with all 595 commits and branches.
+
+## License
+
+The source code is under the [MIT License](LICENSE). Some graphics and sounds may come from third-party
+sources and keep their own terms.
